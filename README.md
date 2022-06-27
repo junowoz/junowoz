@@ -21,10 +21,10 @@ NOTE: This does not indicate my skill level or language proficiency, it's merely
 
 ## Connect with me:
 
-[![Twitter Badge](https://img.shields.io/badge/-@Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/junow0z)](https://twitter.com/junow0z) 
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/junow0z)](https://twitter.com/junow0z) 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juanjosegouveac/)](https://www.linkedin.com/in/juanjosegouveac/) 
 [![Medium Badge](https://img.shields.io/badge/-Medium-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@junowoz/)](https://medium.com/@junowoz)
-[![Gmail Badge](https://img.shields.io/badge/-E-mail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:junogouvea@gmail.com)](mailto:junogouvea@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-junogouvea@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:junogouvea@gmail.com)](mailto:junogouvea@gmail.com)
 
 ![](https://komarev.com/ghpvc/?username=junowoz&style=flat)
 
