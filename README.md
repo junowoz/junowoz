@@ -1,4 +1,4 @@
-### Welcome! 🌐
+# Welcome! 🌐
 
 I'm a Computer Engineering and Economics student with sense of leadership and entrepreneurial spirit. I'm constantly seeking for knowledge and experiences that lead me to contribute to the technological progress of humanity. My main goal is to do useful things, spread positivity and inspire people. Interested in: Web3 Engineering and Cryptonomy.
 
@@ -17,7 +17,10 @@ NOTE: This does not indicate my skill level or language proficiency, it's merely
 
 ---
 
-## Connect with me:
+## Projects
+<strong>Plethora Hub</strong> is a Web3, Crypto, DeFi, NFT, Blockchain, Metaverse and financial wisdom portal, in which everyday, news and related content is sent. [Join us.](https://chat.whatsapp.com/DGiL42WALsVKBJ0Z6Ksiwf)
+
+## Connect with me
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/junow0z)](https://twitter.com/junow0z) 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juanjosegouveac/)](https://www.linkedin.com/in/juanjosegouveac/) 
