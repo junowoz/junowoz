@@ -4,8 +4,8 @@ Computer Engineering and Economics student with sense of leadership and entrepre
 
 Working as an Innovation Intern @ECOA-PUCRIO
 
-🌱 &nbsp;I'm on track with learning more about Smart Contracts with Solidity | Web3 Engineering.
-📄 &nbsp;Check my [portfolio](https://junowoz.xyz) to get to know me a little better.
+🌱 &nbsp;I'm on track with learning more about Smart Contracts with Solidity | Web3 Engineering.\
+📄 &nbsp;Check my [personal website](https://junowoz.xyz) to get to know me a little better.
 
 ---
 
