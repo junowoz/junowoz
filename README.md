@@ -1,6 +1,6 @@
 # Welcome! 🌐
 
-I'm a Computer Engineering and Economics student with sense of leadership and entrepreneurial spirit. My main goal is to do useful things, spread positivity and inspire people. Interested in: Web3 Engineering and Cryptonomy.
+Computer Engineering and Economics student with sense of leadership and entrepreneurial spirit. I aim to do useful things, share knowledge, spread positivity and inspire people. Deeply interested in: Web3 Engineering and Cryptoeconomics.
 
 Working as an Innovation Intern @ECOA-PUCRIO
 
