@@ -4,7 +4,7 @@ Computer Engineering and Economics student with sense of leadership and entrepre
 
 Working as an Innovation Intern @ECOA-PUCRIO
 
-Technical Writer @Web3Dev
+Contributing Writer @Web3Dev
 
 🌱 &nbsp;I'm on track with learning more about Smart Contracts with Solidity | Web3 Engineering.\
 📄 &nbsp;Check my [personal webpage](https://junowoz.xyz) to get to know me a little better.
