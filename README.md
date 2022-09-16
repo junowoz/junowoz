@@ -6,6 +6,9 @@ Working as an Innovation Intern @ECOA-PUCRIO
 
 Contributing Writer @Web3Dev
 
+Community Moderator @Modak
+
+
 🌱 &nbsp;I'm on track with learning more about Smart Contracts with Solidity | Web3 Engineering.\
 📄 &nbsp;Check my [personal webpage](https://junowoz.xyz) to get to know me a little better.
 
