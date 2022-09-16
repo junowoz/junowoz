@@ -1,12 +1,12 @@
 # Welcome! 🌐
 
-Computer Engineering and Economics student with sense of leadership and entrepreneurial spirit. I aim to do useful things, share knowledge, spread positivity and inspire people. Deeply interested in: Web3 Engineering and Cryptoeconomics.
+Computer Engineering and Economics student deeply interested in Web3 Engineering and cryptoeconomics. Strong sense of leadership and entrepreneurial spirit. I aim to do useful things, share knowledge, spread positivity and inspire people.
 
-Working as an Innovation Intern @ECOA-PUCRIO
+⚙️ Working as an Innovation Intern @ECOA-PUCRIO
 
-Contributing Writer @Web3Dev
+🦄 Contributing Writer @Web3Dev
 
-Community Moderator @Modak
+🤖 Community Moderator @Modak
 
 
 🌱 &nbsp;I'm on track with learning more about Smart Contracts with Solidity | Web3 Engineering.\
