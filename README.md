@@ -4,7 +4,7 @@ Computer Engineering and Economics student deeply interested in Web3 Engineering
 
 ⚙️ Working as an Innovation Intern @ECOA-PUCRIO
 
-🦄 Contributing Writer @Web3Dev
+🦄 Translator & Writer @Web3Dev
 
 🤖 Community Moderator @Modak
 
