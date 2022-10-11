@@ -1,6 +1,12 @@
 # Welcome! 🌐
 
-Computer Engineering and Economics student deeply interested in Web3 Engineering and cryptoeconomics.
+Computer Engineering and Economics student deeply interested in Blockchain Engineering and cryptoeconomics, with experience in Software Development mainly using Front-End technologies:
+
+- HTML, CSS, JS.
+- Agile software development methodologies (Kanban & GTD).
+- App prototyping with figma.
+- Design thinking. 
+- Open Source contribution.
 
 ⚙️ Working as an Innovation Intern @ECOA-PUCRIO
 
@@ -9,7 +15,7 @@ Computer Engineering and Economics student deeply interested in Web3 Engineering
 🤖 Community Moderator @Modak
 
 
-🌱 &nbsp;I'm on track with learning more about Smart Contracts with Solidity | Web3 Engineering.\
+🌱 &nbsp;I'm on track with learning more about Smart Contracts with Solidity and ReactJs.\
 📄 &nbsp;Check my [personal webpage](https://junowoz.xyz) to get to know me a little better.
 
 ---
@@ -29,7 +35,7 @@ NOTE: This does not indicate my skill level or language proficiency, it's merely
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/junow0z)](https://twitter.com/junow0z) 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juanjosegouveac/)](https://www.linkedin.com/in/juanjosegouveac/) 
-[![Medium Badge](https://img.shields.io/badge/-Medium-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@junowoz/)](https://medium.com/@junowoz)
+[![Medium Badge](https://img.shields.io/badge/-Medium-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://es.w3d.community/junowoz)](https://es.w3d.community/junowoz)
 [![Gmail Badge](https://img.shields.io/badge/-junogouvea@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:junogouvea@gmail.com)](mailto:junogouvea@gmail.com)
 
 ![](https://komarev.com/ghpvc/?username=junowoz&style=flat)
