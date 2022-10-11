@@ -37,10 +37,9 @@ NOTE: This does not indicate my skill level or language proficiency, it's merely
 
 ## Connect with me
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/junow0z)](https://twitter.com/junow0z) 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juanjosegouveac/)](https://www.linkedin.com/in/juanjosegouveac/) 
-[![W3D Badge](https://img.shields.io/badge/W3D-Web3Dev-green&link=https://es.w3d.community/junowoz)](https://es.w3d.community/junowoz/)
-https://img.shields.io/badge/w3d-web3dev-green
+[![W3D Badge](https://img.shields.io/badge/W3D-Web3Dev-green)](https://es.w3d.community/junowoz/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/junow0z)](https://twitter.com/junow0z) 
 [![Gmail Badge](https://img.shields.io/badge/-junogouvea@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:junogouvea@gmail.com)](mailto:junogouvea@gmail.com)
 
 ![](https://komarev.com/ghpvc/?username=junowoz&style=flat)
