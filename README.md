@@ -1,14 +1,16 @@
 # Welcome! 🌐
 
-Computer Engineering and Economics student deeply interested in Blockchain Engineering and cryptoeconomics, with experience in Software Development mainly using Front-End technologies:
+Computer Engineering and Economics student with experience in Software Development mainly using Front-End technologies. I am currently delving into:
 
-- HTML, CSS, JavaScript and SQL.
+- HTML, CSS, JavaScript and React.
+- SQL.
 - Agile software development methodologies (Kanban & GTD).
-- App prototyping with figma.
-- Design thinking. 
+- App prototyping with Figma.
+- Design thinking.
 - Open Source contribution.
+- Git & Github.
 
-I'm on track with learning more about Smart Contracts with Solidity and ReactJs.
+I'm deeply interested in Blockchain Engineering and Cryptoeconomics, so I'm on track with learning more about web3.js and Smart Contracts with Solidity.
 
 ---
 
@@ -20,7 +22,7 @@ I'm on track with learning more about Smart Contracts with Solidity and ReactJs.
 
 ---
 
-📄 &nbsp;Check my [personal webpage](https://junowoz.xyz) to get to know me a little better.
+📄 &nbsp;Check my [portfolio](https://junowoz.xyz) to get to know me a little better.
 
 ---
 
@@ -43,5 +45,3 @@ NOTE: This does not indicate my skill level or language proficiency, it's merely
 [![Gmail Badge](https://img.shields.io/badge/-junogouvea@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:junogouvea@gmail.com)](mailto:junogouvea@gmail.com)
 
 ![](https://komarev.com/ghpvc/?username=junowoz&style=flat)
-
-
