@@ -16,7 +16,7 @@ I'm deeply interested in Blockchain Engineering and Cryptoeconomics, so I'm on t
 
 ⚙️ Working as an Innovation Intern @ECOA-PUCRIO
 
-🦄 Translator & Writer @Web3Dev
+🦄 Global Expansion Lead @Web3Dev
 
 🤖 Community Moderator @Modak
 
