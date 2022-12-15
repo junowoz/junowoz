@@ -23,7 +23,7 @@ I'm deeply interested in Blockchain Engineering and Cryptoeconomics, so I'm on t
 
 ---
 
-📄 &nbsp;Check my [portfolio](https://junowoz.xyz) to get to know me a little better.
+📄 &nbsp;Check my [portfolio](https://junowoz.github.io/portfolio/) to get to know me a little better.
 
 ---
 
