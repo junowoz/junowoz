@@ -1,13 +1,12 @@
 # Welcome! 🌐
 
-Computer Engineering and Economics student with experience in Software Development mainly using Front-End technologies. I am currently delving into:
+Computer Engineering and Economics student with experience in Software Development. I am currently delving into:
 
-- HTML, CSS, JavaScript, ReactJS and VueJS.
-- SQL, MongoDB and NodeJS.
+- HTML5, CSS3, JavaScript, TypeScript and ReactJS.
+- MongoDB, NodeJS and SQL.
 - Solidity and EthersJS.
 - Agile software development methodologies (Kanban & GTD).
-- App prototyping with Figma.
-- Design thinking.
+- App prototyping with Figma and Design Thinking.
 - Open Source contribution.
 - Git & Github.
 
@@ -35,8 +34,8 @@ NOTE: This does not indicate my skill level or language proficiency, it's merely
 
 ---
 
-## Projects
-<strong>Plethora Hub</strong> is a Web3, Crypto, DeFi, NFT, Blockchain, Metaverse and financial wisdom portal, in which everyday, news and related content is sent. [Join us.](https://chat.whatsapp.com/DGiL42WALsVKBJ0Z6Ksiwf)
+<!-- ## Projects
+<strong>Plethora Hub</strong> is a Web3, Crypto, DeFi, NFT, Blockchain, Metaverse and financial wisdom portal, in which everyday, news and related content is sent. [Join us.](https://chat.whatsapp.com/DGiL42WALsVKBJ0Z6Ksiwf) -->
 
 ## Connect with me
 
