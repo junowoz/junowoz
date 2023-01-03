@@ -45,3 +45,4 @@ NOTE: This does not indicate my skill level or language proficiency, it's merely
 [![Gmail Badge](https://img.shields.io/badge/-junogouvea@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:junogouvea@gmail.com)](mailto:junogouvea@gmail.com)
 
 ![](https://komarev.com/ghpvc/?username=junowoz&style=flat)
+
