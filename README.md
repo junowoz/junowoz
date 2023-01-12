@@ -1,4 +1,4 @@
-```
+```javascript
 console.log("Hello! 🌐");
 
 const developer 👨‍💻 = {
