@@ -35,16 +35,14 @@ const developer 👨‍💻 = {
 
 ---
 
-📄 &nbsp;Check my [portfolio](https://junowoz.github.io/portfolio/) to get to know me a little better.
-
----
-
 ![Github stats](https://github-readme-stats.vercel.app/api?username=junowoz&theme=default&show_icons=true&count_private=true)
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=junowoz&layout=compact)
 
 ---
 ## Connect with me
+
+📄 &nbsp;Check my [portfolio](https://junowoz.github.io/portfolio/) to get to know my skills.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juanjosegouveac/)](https://www.linkedin.com/in/juanjosegouveac/) 
 [![W3D Badge](https://img.shields.io/badge/W3D-Web3Dev-green)](https://es.w3d.community/junowoz/)
