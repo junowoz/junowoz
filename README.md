@@ -7,11 +7,11 @@ const developer 👨‍💻 = {
     experience: "1 year of experience in software development",
     education: "Computer Engineering, Economics. 2020-2024",
     skills: {
-        "🎨 Frontend": ["React", "Redux", "JavaScript", "TypeScript", "HTML5", "CSS3"],
-        "🔧 Backend": ["Node.js", "Express"]
+        "🎨 Frontend": ["React", "JavaScript", "TypeScript", "HTML5", "CSS3"],
+        "🔧 Backend": ["Node.js"]
     },
-        "💾 Databases": ["MongoDB", "SQL"],
-        "🌐 Blockchain": ["Solidity", "Ethers.js"],
+        "💾 Databases": ["MySQL", "SQL"],
+        "🌐 Blockchain": ["Solidity"],
         "🚀 Training": ["RESTful APIs"],
         "🧵 Tools": ["Docker"],
     },
@@ -20,11 +20,11 @@ const developer 👨‍💻 = {
         "🧵 Tools": ["Agile", "Scrum", "Git & Github", "Trello", "Figma"],
     },
     tech_communities: ["Web3Dev", "Ethereum.org"],
-    activities: ["Open Source Contribution at Ethereum and Web3Dev"],
-    certifications:["React, Node.js, MongoDB, SQL, Express, TypeScript Certifications from Codecademy",
-                    "JavaScript Certification from freeCodeCamp"]
+    activities: ["Open Source Contribution at Ethereum and Web3Dev"]
+
 };
 ```
+
 ---
 
 ⚙️ Innovation Intern @ECOA-PUCRIO

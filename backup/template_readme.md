@@ -1,4 +1,5 @@
-```
+```javascript
+
 console.log("Hello! 🌐");
 
 const developer 👨‍💻 = {
@@ -11,7 +12,7 @@ const developer 👨‍💻 = {
         "🔧 Backend": ["Node.js", "Nest.js", "Express"],
         "📱 Mobile": ["React Native"],
     },
-        "💾 Databases": ["MongoDB", "PostgreSQL", "SQL"],
+        "💾 Databases": ["MongoDB", "PostgreSQL", "MySQL"],
         "🌐 Blockchain": ["Solidity", "Ethers.js"],
         "🚀 Training": ["GraphQL", "RESTful APIs", "Microservices"],
         "🧵 Tools": ["Docker", "Webpack", "Heroku", "GitLab CI/CD"],
