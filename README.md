@@ -10,7 +10,7 @@ const developer = {
     experience: "1 year of experience in software development",
     education: "Computer Engineering, Economics. 2020-2024",
     skills: {
-        "🎨 Frontend": ["React", "JavaScript", "TypeScript", "HTML5", "CSS3"],
+        "🎨 Frontend": ["React", "JavaScript", "TypeScript", "Tailwind CSS", "CSS3", "HTML5"],
         "🔧 Backend": ["Node.js"],
         "💾 Databases": ["MySQL"],
 
