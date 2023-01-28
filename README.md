@@ -6,7 +6,7 @@ console.log("Hello! 🌐👨‍💻");
 
 const developer = {
     name: "Juan José Gouvêa",
-    profession: "Full-Stack Developer",
+    profession: "Software Developer",
     experience: "1 year of experience in software development",
     education: "Computer Engineering, Economics. 2020-2024",
     skills: {
