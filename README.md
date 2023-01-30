@@ -27,15 +27,6 @@ const developer = {
 
 };
 ```
-
----
-
-⚙️ Innovation Intern @ECOA-PUCRIO
-
-🦄 Global Expansion Lead @Web3Dev
-
-🤖 Community Moderator @Modak
-
 ---
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=junowoz&theme=default&show_icons=true&count_private=true)
