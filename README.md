@@ -1,4 +1,6 @@
 # Welcome
+## 📁 &nbsp;Check my [portfolio](https://junowoz.github.io/portfolio/).
+
 
 ```javascript
 
@@ -34,14 +36,5 @@ const developer = {
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=junowoz&layout=compact)
 
 ---
-
-## Connect with me
-
-📄 &nbsp;Check my [portfolio](https://junowoz.github.io/portfolio/) to get to know my skills.
-
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juanjosegouveac/)](https://www.linkedin.com/in/juanjosegouveac/)
-[![W3D Badge](https://img.shields.io/badge/W3D-Web3Dev-green)](https://es.w3d.community/junowoz/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/junow0z)](https://twitter.com/junow0z)
-[![Gmail Badge](https://img.shields.io/badge/-junogouvea@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:junogouvea@gmail.com)](mailto:junogouvea@gmail.com)
 
 ![junowoz](https://komarev.com/ghpvc/?username=junowoz&style=flat)
