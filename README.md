@@ -9,7 +9,6 @@ console.log("Hello! 🌐👨‍💻");
 const developer = {
     name: "Juan José Gouvêa",
     profession: "Software Developer",
-    experience: "1 year of experience in software development",
     education: "Computer Engineering, Economics. 2020-2024",
     skills: {
         "🎨 Frontend": ["React", "JavaScript", "TypeScript", "Tailwind CSS", "CSS3", "HTML5"],
