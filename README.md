@@ -11,9 +11,9 @@ const developer = {
     profession: "Software Developer",
     education: "Computer Engineering, Economics. 2020-2024",
     skills: {
-        "🎨 Frontend": ["React", "JavaScript", "TypeScript", "Tailwind CSS", "CSS3", "HTML5"],
+        "🎨 Frontend": ["React", "Next.js", "TypeScript", "JavaScript", "Tailwind CSS", "CSS3", "HTML5"],
         "🔧 Backend": ["Node.js"],
-        "💾 Databases": ["MySQL"],
+        "💾 Databases": ["SQL, MySQL"],
 
         "🌐 Blockchain": ["Solidity"],
         "🚀 Training": ["RESTful APIs"],
