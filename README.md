@@ -1,13 +1,17 @@
-# Welcome!
+# 🌐 Welcome!
 ![junowoz](https://komarev.com/ghpvc/?username=junowoz&style=flat)
 
-> Links:
--  [📁 Portfolio](https://junowoz.github.io/portfolio/)
--  [📜CV](https://gitconnected.com/junowoz/resume)
--  [Linkedin](https://www.linkedin.com/in/juanjosegouveac/)
--  [Blog](https://junowoz.gitbook.io/blog/readme)
+## Contact
+<p align="center">
+  <a alt="Portfolio" href="https://junowoz.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
+  </a>
 
----
+  <a alt="Linkedin" href="https://www.linkedin.com/in/juanjosegouveac/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
+
 ## Skills
 <p align="center">
   <a href="https://skillicons.dev">
@@ -19,5 +23,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=junowoz&theme=apprentice&show_icons=true&count_private=true">
+  </br>  </br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junowoz&theme=apprentice&layout=compact">
 </p>
