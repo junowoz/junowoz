@@ -1,4 +1,5 @@
 # Welcome!
+![junowoz](https://komarev.com/ghpvc/?username=junowoz&style=flat)
 
 > Links:
 -  [📁 Portfolio](https://junowoz.github.io/portfolio/)
@@ -14,8 +15,9 @@
   </a>
 </p>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=junowoz&theme=apprentice&show_icons=true&count_private=true)
+</br>
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=junowoz&theme=apprentice&layout=compact)
-
-![junowoz](https://komarev.com/ghpvc/?username=junowoz&style=flat)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=junowoz&theme=apprentice&show_icons=true&count_private=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junowoz&theme=apprentice&layout=compact">
+</p>
