@@ -1,11 +1,16 @@
 # Welcome!
-## [Portfolio](https://junowoz.github.io/portfolio/) 📁
-## [CV]()
+
+> Links:
+-  [📁 Portfolio](https://junowoz.github.io/portfolio/)
+-  [📜CV](https://gitconnected.com/junowoz/resume)
+-  [Linkedin](https://www.linkedin.com/in/juanjosegouveac/)
+-  [Blog](https://junowoz.gitbook.io/blog/readme)
+
 ---
 ## Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,solidity,tailwind,css,html,nodejs,mysql,docker,git,figma,linux" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,solidity,tailwind,css,html,nodejs,mysql,docker,git,figma,linux&theme=light" />
   </a>
 </p>
 
