@@ -1,6 +1,4 @@
 # 🌐 Welcome!
-![junowoz](https://komarev.com/ghpvc/?username=junowoz&style=flat)
-
 ## Contact
 <p align="center">
   <a alt="Portfolio" href="https://junowoz.github.io/portfolio/">
@@ -26,3 +24,5 @@
   </br>  </br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junowoz&theme=apprentice&layout=compact">
 </p>
+
+![junowoz](https://komarev.com/ghpvc/?username=junowoz&style=flat)
