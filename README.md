@@ -1,7 +1,5 @@
 # 🌐 Welcome!
-Software Developer with a passion for using emerging technologies to solve complex problems. Experienced in front-end development, and proficient in agile software development methodologies, design thinking, and team leadership. With 1 year of experience, I have worked in software development internships.
-
-Currently, I am working as a Software Developer at Re-Cycling, where I am using my skills and experience to contribute to the development of an e-commerce.
+Software Developer with a passion for using emerging technologies to solve complex problems. Experienced in front-end development, and proficient in agile software development methodologies, design thinking, and team leadership. With 1 year of experience, I have worked as a Software Engineer, building mainly websites, like e-commerces, mvps for the insurance industry and many side projects.
 
 ## Contact
 <p align="center">
