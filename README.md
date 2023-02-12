@@ -1,5 +1,5 @@
 # 🌐 Welcome!
-Software Developer with a passion for using emerging technologies to solve complex problems. Experienced in front-end development, and proficient in agile methodologies, design thinking, and team leadership. With 1 year of experience, I have worked as a Software Engineer, building mainly websites, like e-commerces, mvps for the insurance industry and many side projects which you can explore on my portfolio.
+Software Developer based in Brazil with one year of experience in Front-End development, and well-versed in agile methodologies, design thinking, and team leadership. I have built business solutions websites, e-commerce platforms, MVPs for the insurance industry, and various side projects using React and Next.
 
 ## Contact
 <p align="center">
