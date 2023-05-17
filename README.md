@@ -1,7 +1,7 @@
 ###
 Software Engineer based in Brazil with two years of experience in Full-Stack and Mobile development, and well-versed in agile methodologies, design thinking, and team leadership. I have built business solutions websites, e-commerce platforms, MVPs for the insurance industry, and various side projects.
 
-<a alt="Portfolio" href="https://junowoz.github.io/portfolio/">
+<a alt="Portfolio" href="https://junowoz.com">
   <strong>➜ Portfolio</strong>
 </a>
 
