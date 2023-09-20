@@ -1,4 +1,4 @@
-Engenheiro de Software com 1,5 anos de experiência em desenvolvimento Web, bem versado em metodologias ágeis, design thinking e liderança de equipe. Já desenvolvi soluções para sites empresariais, plataformas de e-commerce, MVPs para a indústria de seguros e atualmente estou trabalhando em minha startup, chamada Vitae.
+Desenvolvedor de Software especialista em Web e Mobile. Líder com visão empreendedora. Criei soluções para empresas, E-Commerce, plataformas Full-Stack, MVPs para a indústria de seguros e sou fundador da plataforma Vitae para currículos. Domínio em Next.js, React Native e TypeScript.
 
 <a alt="Website" href="https://junowoz.com">
   <strong>➜ Website: junowoz.com</strong>
