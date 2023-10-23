@@ -1,9 +1,9 @@
-Desenvolvedor de Software especialista em Web. Líder com visão empreendedora. Criei soluções para empresas, E-Commerce, plataformas Full-Stack, MVPs para a indústria de seguros e sou fundador da plataforma Vitae para currículos.
+Software Developer specialized in Web. Leader with an entrepreneurial vision. I created solutions for companies, E-Commerce, Full-Stack platforms, MVPs for the insurance industry, and I am the founder of the Vitae platform for resumes. 
 
-- Next.js, React.js, Svelte, Vue, React Native
-- Nest.js, Django, MongoDB, PostgreSQL
+- Next.js, React.js, Svelte, Vue, React Native, UI/UX
+- Nest.js, FastAPI, MongoDB, PostgreSQL
 - TypeScript, Python, Java
-- Docker, Git, Figma
+- Docker, Git, Figma, Heroku
 
 <a alt="Website" href="https://junowoz.com">
   <strong>➜ Website: junowoz.com</strong>
