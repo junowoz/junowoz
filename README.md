@@ -1,7 +1,7 @@
 Software Developer specialized in Web. Leader with an entrepreneurial vision. I created solutions for companies, E-Commerce, Full-Stack platforms, MVPs for the insurance industry, and I am the founder of the Vitae platform for resumes. 
 
-- Next.js, React.js, Svelte, Vue, React Native, UI/UX
-- Nest.js, FastAPI, MongoDB, PostgreSQL
+- Next.js, React.js, Svelte, Vue, React Native, TailwindCSS, UI/UX
+- Nest.js, Node.js, Express, FastAPI, MongoDB, PostgreSQL, Prisma
 - TypeScript, Python, Java
 - Docker, Git, Figma, Heroku
 
