@@ -1,4 +1,8 @@
-Software Developer specialized in Web. Leader with an entrepreneurial vision. I created solutions for companies, E-Commerce, Full-Stack platforms, MVPs for the insurance industry, and I am the founder of the Vitae platform for resumes. 
+I am a Full-Stack Software Developer. Throughout my journey, I have created E-Commerce websites, Full-Stack platforms, and MVPs for the insurance industry, software projects for startups, and I am currently the founder of the Vitae platform for resume creation and management.
+
+---
+
+Sou um desenvolvedor de Software Full-Stack. Ao longo da minha jornada, tenho criado E-Commerces, plataformas Full-Stack e MVPs para a indústria de seguros, projetos de software para startups, e atualmente sou fundador da plataforma Vitae para criação e gestão de currículos.
 
 - Next.js, React.js, Svelte, Vue, React Native, TailwindCSS, UI/UX
 - Nest.js, Node.js, Express, FastAPI, MongoDB, PostgreSQL, Prisma
