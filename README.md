@@ -1,7 +1,12 @@
-<p>Portfolio: <a alt="Website" href="https://junowoz.com">junowoz.com</a></p>
+I like to build stuff.
+<br/>
+<a alt="Website" href="https://junowoz.com">junowoz.com</a>
+<br/>
 
-I like to build stuff. Check out:
+Also check out:
+<br/>
 <a alt="Website" href="https://vitae.cv">vitae.cv</a>
+<br/>
 <a alt="Website" href="https://ucloset.net">ucloset.net</a>
 
 ![junowoz](https://komarev.com/ghpvc/?username=junowoz&style=flat)
