@@ -1,9 +1,9 @@
-I like to build stuff.
+
 <br/>
 <a alt="Website" href="https://junowoz.com">junowoz.com</a>
 <br/>
 
-Also check out:
+I like to build stuff:
 <br/>
 <a alt="Website" href="https://vitae.cv">vitae.cv</a>
 <br/>
