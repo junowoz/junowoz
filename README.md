@@ -8,7 +8,7 @@ i like to build stuff:
 <br/>
 <a alt="Website" href="https://vitae.cv">vitae.cv</a>
 <br/>
-<a alt="Website" href="https://ucloset.net">udyax.com</a>
+<a alt="Website" href="https://udyax.com">udyax.com</a>
 <br/>
 <a alt="Website" href="https://inovatec.junowoz.com">inovatec.junowoz.com</a>
 <br/>
