@@ -4,22 +4,22 @@
 
 i like to build stuff:
 <br/>
-<a alt="Website" href="https://ucloset.net">ucloset.net</a>
+<a alt="Website" target="_blank" href="https://ucloset.net">ucloset.net</a>
 <br/>
-<a alt="Website" href="https://vitae.cv">vitae.cv</a>
+<a alt="Website" target="_blank" href="https://vitae.cv">vitae.cv</a>
 <br/>
-<a alt="Website" href="https://udyax.com">udyax.com</a>
+<a alt="Website" target="_blank" href="https://udyax.com">udyax.com</a>
 <br/>
-<a alt="Website" href="https://identicon.junowoz.com">identicon.junowoz.com</a>
+<a alt="Website" target="_blank" href="https://identicon.junowoz.com">identicon.junowoz.com</a>
 <br/>
-<a alt="Website" href="https://inovatec.junowoz.com">inovatec.junowoz.com</a>
+<a alt="Website" target="_blank" href="https://inovatec.junowoz.com">inovatec.junowoz.com</a>
 <br/>
 
 also checkout:
 <br/>
-<a alt="Website" href="https://blog.junowoz.com">Blog</a>
+<a alt="Website" target="_blank" href="https://blog.junowoz.com">Blog</a>
 <br/>
-<a alt="Website" href="https://playbook.junowoz.com">Startups Playbook</a>
+<a alt="Website" target="_blank" href="https://playbook.junowoz.com">Startups Playbook</a>
 
 <br/>
 
