@@ -10,16 +10,14 @@ i like to build stuff:
 <br/>
 <a alt="Website" target="_blank" href="https://udyax.com">udyax.com</a>
 <br/>
-<a alt="Website" target="_blank" href="https://identicon.junowoz.com">identicon.junowoz.com</a>
-<br/>
 <a alt="Website" target="_blank" href="https://inovatec.junowoz.com">inovatec.junowoz.com</a>
 <br/>
 
 also checkout:
 <br/>
-<a alt="Website" target="_blank" href="https://blog.junowoz.com">Blog</a>
+<a alt="Website" target="_blank" href="https://junowoz.com/blog">blog</a>
 <br/>
-<a alt="Website" target="_blank" href="https://playbook.junowoz.com">Startups Playbook</a>
+<a alt="Website" target="_blank" href="https://playbook.junowoz.com">startups playbook</a>
 
 <br/>
 
