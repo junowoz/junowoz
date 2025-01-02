@@ -7,9 +7,9 @@ i like to build stuff:
 <br/>
 <a alt="Website" target="_blank" href="https://onde.social">onde.social</a>
 <br/>
-<a alt="Website" target="_blank" href="https://vitae.cv">vitae.cv</a>
-<br/>
 <a alt="Website" target="_blank" href="https://velooh.com">velooh.com</a>
+<br/>
+<a alt="Website" target="_blank" href="https://vitae.cv">vitae.cv</a>
 <br/>
 <a alt="Website" target="_blank" href="https://udyax.com">udyax.com</a>
 <br/>
@@ -17,7 +17,8 @@ i like to build stuff:
 <br/>
 <a alt="Website" target="_blank" href="https://ucloset.net">ucloset.net</a>
 <br/>
-<a alt="Website" target="_blank" href="https://inovatec.junowoz.com">inovatec.junowoz.com</a>
+<a alt="Website" target="_blank" href="https://inovatec.junowoz.com">inovatec</a>
+<br/>
 <br/>
 
 also checkout:
