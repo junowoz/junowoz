@@ -1,8 +1,11 @@
+Computer Engineer and Economist based in Brazil
+<br/>
+<br/>
 <a alt="Website" href="https://junowoz.com">junowoz.com</a>
 <br/>
 <br/>
 
-i like to build stuff:
+ Some of the stuff I've built:
 
 <br/>
 <a alt="Website" target="_blank" href="https://onde.social">onde.social</a>
