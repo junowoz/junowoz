@@ -26,9 +26,9 @@ Computer Engineer and Economist based in Brazil
 
 Also checkout:  
 <br/>
-<a alt="Website" target="_blank" href="https://junowoz.com/blog">blog</a>
+<a alt="Project" target="_blank" href="https://junowoz.com/blog">blog</a>
 <br/>
-<a alt="Website" target="_blank" href="https://playbook.junowoz.com">startups playbook</a>
+<a alt="Project" target="_blank" href="https://playbook.junowoz.com">startups playbook</a>
 
 <br/>
 
