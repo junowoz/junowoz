@@ -1,4 +1,4 @@
-Computer Engineer and Economist based in Brazil
+Computer Engineer and Economist [🇧🇷]
 <br/>
 <a alt="Website" target="_blank" href="https://junowoz.com">junowoz.com</a>
 
