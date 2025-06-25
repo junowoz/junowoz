@@ -2,14 +2,13 @@ Computer Engineer and Economist [🇧🇷]
 <br/>
 <a alt="Website" target="_blank" href="https://junowoz.com">junowoz.com</a>
 
-Some of the stuff I've built:
+I like to build stuff:
 <br/>
+<a alt="Project" target="_blank" href="https://sudotech.com.br">sudotech.com.br</a>  
 <a alt="Project" target="_blank" href="https://onde.social">onde.social</a>   
 <a alt="Project" target="_blank" href="https://vitae.cv">vitae.cv</a>  
 <a alt="Project" target="_blank" href="https://udyax.com">udyax.com</a>  
 <a alt="Project" target="_blank" href="https://inovatec.junowoz.com">inovatec.junowoz.com</a>  
-<a alt="Project" target="_blank" href="https://velooh.com">velooh.com</a>  
-<a alt="Project" target="_blank" href="https://sudotech.com.br">sudotech.com.br</a>  
 
 Also checkout:
 <br/>
