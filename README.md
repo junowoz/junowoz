@@ -1,15 +1,6 @@
-Computer Engineer and Economist [🇧🇷]
-<br/>
+I build stuff at <a alt="Website" target="_blank" href="https://junowoz.com">junowoz.com</a> and <a alt="Project" target="_blank" href="https://sudotech.com.br">sudotech.com.br</a>  
 
-I like to build stuff:
-<br/>
-<a alt="Website" target="_blank" href="https://junowoz.com">junowoz.com</a><br/>
-<a alt="Project" target="_blank" href="https://sudotech.com.br">sudotech.com.br</a>  
-
-Also checkout:
-<br/>
-<a alt="Project" target="_blank" href="https://junowoz.com/blog">my blog</a><br/>
-<a alt="Project" target="_blank" href="https://playbook.junowoz.com">startups playbook</a>
+checkout <a alt="Project" target="_blank" href="https://junowoz.com/blog">my blog</a><br/>
 
 ![junowoz](https://komarev.com/ghpvc/?username=junowoz&style=flat)
 <br/>
