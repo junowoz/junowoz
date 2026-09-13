@@ -1,4 +1,4 @@
-I build stuff at <a alt="Website" target="_blank" href="https://junowoz.com">junowoz.com</a> and <a alt="Project" target="_blank" href="https://sudotech.com.br">sudotech.com.br</a>  
+I build stuff at <a alt="Website" target="_blank" href="https://junowoz.com">junowoz.com</a>
 
 checkout <a alt="Project" target="_blank" href="https://junowoz.com/blog">my blog</a><br/>
 
